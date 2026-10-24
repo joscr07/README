@@ -23,13 +23,7 @@ Cibersecurity Engineering student with hands-on experience in Linux, Python, Jav
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-
-![Red_Team/Blue_team]((https://github.com/joscr07/Proyecto_ProgramacionAvanzada))
----
-
-## Experience
-
-
+| [Red_Team / Blue_Team]((https://github.com/joscr07/Proyecto_ProgramacionAvanzada)) | Cibersecurity Python Program based on a defensive team and an attacking team involves Microsoft Azure VMS | Python, Microsoft Azure, Linux |
 ---
 
 ## Education
